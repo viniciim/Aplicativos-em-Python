@@ -3,7 +3,7 @@ gasolina = float(input("Preço da Gasolina: "))
 
 resultado = alcool/gasolina
 
-print("Resultado do calculo: ", resultado)
+print("Resultado do cálculo: ", resultado)
 print("")
 if resultado <= 0.70:
     print("Está compensando abastecer com Álcool!")

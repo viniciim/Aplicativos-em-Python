@@ -15,4 +15,4 @@ elif dia == 6:
 elif dia == 7:
     print("Hoje é Sábado.")
 else:
-    print("Digite um número Válido!")
+    print("Por Favor, Digite um número Válido!")

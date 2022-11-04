@@ -1,5 +1,5 @@
 nota = int(input("Digite sua nota: "))
 if nota >= 0 and nota < 10:
-    print("Nota Válida!")
+    print("Aprovado!")
 else:
-    print("Nota Inválida!")
+    print("Reprovado!")
