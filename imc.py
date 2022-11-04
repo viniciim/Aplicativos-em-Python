@@ -28,5 +28,5 @@ elif imc < 34.90:
 elif imc < 39.90:
     print("OBESO NIVEL 2")
 else:
-    print("SLC TIU")
+    print("SLC TIU DA UM JEITO AI PARCEIRO")
 print("-" * 30)
