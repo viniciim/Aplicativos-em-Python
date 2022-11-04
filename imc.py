@@ -22,11 +22,11 @@ elif imc < 18.5:
 elif imc < 24.90:
     print("TÁ NORMAL")
 elif imc < 29.90:
-    print("SOBREPESO, BORA COMEÇAR A FAZER UMA DIETA EM!")
+    print("SOBREPESO, BORA COMEÇAR NO PROJETINHO EM!")
 elif imc < 34.90:
-    print("OBESO")
+    print("DIETA URGENTE!!!")
 elif imc < 39.90:
     print("OBESO NIVEL 2")
 else:
-    print("DIETA URGENTE!!!")
+    print("SLC TIU")
 print("-" * 30)
